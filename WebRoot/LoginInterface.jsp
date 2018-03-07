@@ -19,8 +19,8 @@ ${error }
 <form action="login.do" method="post">
 	 <div class="container">
 		<div class="form row">
-			<div class="col-md-offset-3 col-xs-offset-3 form-horizontal" id="login"></div>	 
-				 <h1 class="title" style ="font-size: 40px">Welcome to UTC</h1>
+			<div class="col-md-offset-3 col-xs-offset-3 form-horizontal" id="login">	 
+				 <h1 class="title" style ="font-size: 40px">Welcome to UTC</h1></div>
 				 <div class="col-sm-9 col-md-9">
 				 <div class="form-group"> 
 				
